@@ -1,2 +1,5 @@
 # AI-training-models
-some exercises with Python
+Some exercises with Python
+Regresion
+
+
